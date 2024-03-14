@@ -1,1 +1,1 @@
-This is the official GitHub repository for Lift Off C++ Group 2 
+This is the official GitHub repository for Lift Off C++ Group 2.
