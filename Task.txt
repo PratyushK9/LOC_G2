@@ -1,0 +1,5 @@
+Mentor - Devansh bansal
+Task 1
+Create a folder of your name
+Inside that folder create a txt file with your regdno, name, branch, hobby
+Create another text file and list all the commands you used for the task
