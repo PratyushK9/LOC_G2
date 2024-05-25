@@ -1,0 +1,5 @@
+Commands
+git status 
+git add .
+git commit -m "task1 completed"
+git push
